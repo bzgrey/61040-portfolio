@@ -52,13 +52,14 @@
 ## Evidence
 
 - Remembering Torah:
-    1. [Spaced repetition improves long-term retention](http://en.wikipedia.org/wiki/Spaced_repetition?utm_source=chatgpt.com): Research shows that using flashcards with spaced repetition significantly boosts memory performance over time, making it a proven method for retaining learned material.
+    1. [Spaced repetition improves long-term retention](http://en.wikipedia.org/wiki/Spaced_repetition?utm_source=chatgpt.com): Research shows that using flashcards with spaced repetition significantly boosts memory performance over time, making it a proven method for retaining learned material. This could help people remember Torah.
     2. [Quizlet](https://quizlet.com/) is a popular flashcard website that is similar in the flashcards being shared.
     3. There are a [number](https://judaism.stackexchange.com/questions/77963/memory-techniques-for-torah?utm_source=chatgpt.com) of successful stupy apps, so it is proven to be a useful idea.
     4. [Sefaria](sefaria.org) is an example of a [popular](https://www.reddit.com/r/Jewish/comments/1jza2uj/any_apps_for_free_torah_study/?utm_source=chatgpt.com) website with Torah sources, although it doesn't focuse on review. 
     5.  A lot of review is very valued in [rabbinic sources](https://judaism.stackexchange.com/questions/77963/memory-techniques-for-torah?utm_source=chatgpt.com) so it is definitely something that a lot of people would value have a useful tool for it. 
     6. There are other daily Torah study apps that don't specifically focus on memorization, like the [Chabad study app](https://play.google.com/store/apps/details?hl=en_US&id=org.chabad.android.DailyStudy&utm_source=chatgpt.com)
     7. [Zichru](https://www.zichru.com/) is a program for remembering daily Talmud study, but it is not collaborative. One just uses what is placed on the website for review. It does have an interesting custom quiz option.
+    8. [This article](https://etzion.org.il/en/halakha/studies-halakha/philosophy-halakha/importance-reviewing-and-remembering) brings a number of sources from rabbinic literature about the importance of remembering the Torah that one learns, so if people find this webapp useful, they would have good reason to use it consistently.
 
 -  Minyan Recruiting:
     1. Using phones for notifications and spending a lot of time recruiting can be [distracting](https://www.nirandfar.com/hack-back-phone-distractions/).
