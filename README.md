@@ -14,3 +14,5 @@ Some fun facts about me:
 
 [Link to Assignment 2](assignments/assignment2.md)
 
+[Link to Assignment 3](assignments/assignment3.md)
+
